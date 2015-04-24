@@ -29,7 +29,7 @@
                 </value>
                 <next>
                   <block type="oled_drawtext" id="9">
-                    <field name="TEXT">im olaf and i like hugs</field>
+                    <field name="TEXT">im olaf </field>
                   </block>
                 </next>
               </block>
